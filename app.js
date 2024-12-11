@@ -8,7 +8,7 @@ document.getElementById("submit").addEventListener("click", function () {
   //get the result
   const result = document.getElementById("result");
 
-  //check conditional
+  //check conditional -
   if (userAnswer.toLowerCase() === correctAnswer.toLowerCase()) {
     window.location.href = "escape.html";
   } else {
