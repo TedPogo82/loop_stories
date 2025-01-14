@@ -25,3 +25,7 @@ h1 {
 .right-choice {
   border: 3px solid green;
 }
+
+.story {
+  background-color: lightblue;
+}
